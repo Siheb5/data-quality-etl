@@ -1,0 +1,11 @@
+id,date,description,category,amount
+1,2026-10-01,Salary,Income,2000.00
+2,2026-10-02,REWE Supermarket,Food,-45.30
+3,2026-10-03,Rent,Housing,-650.00
+4,,Lidl,Food,-32.10
+5,2026-10-07,Deutsche Bahn,Transport,
+2,2026-10-02,REWE Supermarket,Food,-45.30
+6,2026-10-10,Netflix,Entertainment,-12.99
+7,2026-10-12,REWE Supermarket,Food,abc
+8,2026-10-15,Gym,Health,-29.90
+9,2026-10-20,Freelance Job,Income,300.00
